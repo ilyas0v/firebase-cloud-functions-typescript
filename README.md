@@ -56,3 +56,6 @@ After upgrading your plan, you can deploy your functions into cloud.
   }, 
 ]
 ```
+
+## Demo
+You can find the demo API in `api.rest` file.
