@@ -1,5 +1,5 @@
 # Firebase Cloud Functions with Typescript
-Simple implementation of Firebase Cloud Functions with with Typescript. Coding API with Express framework and using Firestore Database to store data.
+Simple implementation of Firebase Cloud Functions with with Typescript. Coding API with Express framework and using Firestore Database to store data. You can check out the codes on `functions/src/index.ts` file.
 
 ## Clone the repo
 `git clone https://github.com/ilyas0v/firebase-cloud-functions-typescript.git && cd firebase-cloud-functions-typescript`
