@@ -1,8 +1,7 @@
 # Basic implementation of Firebase Cloud Functions with Node and Express framework with Typescript.
 
 ## Clone the repo
-`git clone https://github.com/ilyas0v/firebase-cloud-functions-typescript.git`
-`cd firebase-cloud-functions-typescript`
+`git clone https://github.com/ilyas0v/firebase-cloud-functions-typescript.git && cd firebase-cloud-functions-typescript`
 
 ## Create new project on Firebase Console
 https://console.firebase.google.com/
