@@ -1,11 +1,20 @@
-# Basic implementation of Firebase Cloud Functions with Node and Express framework with Typescript.
+# Firebase Cloud Functions with Typescript
+Simple implementation of Firebase Cloud Functions with with Typescript. Coding API with Express framework and using Firestore Database to store data.
 
 ## Clone the repo
 `git clone https://github.com/ilyas0v/firebase-cloud-functions-typescript.git && cd firebase-cloud-functions-typescript`
 
 ## Create new project on Firebase Console
 https://console.firebase.google.com/
-Then create a Firestore Database inside the project.
+
+## Firestore Database
+Create a Firestore Database inside the project.
+
+## Write project ID in .firebaserc file
+You can find your project ID on "Project Settings" tab on Firebase Console.
+
+## Upgrade plan from 'Spark' to 'Blaze'
+After upgrading your plan, you can deploy your functions into cloud.
 
 ## Login to firebase
 `firebase login`
