@@ -34,9 +34,10 @@ After upgrading your plan, you can deploy your functions into cloud.
 
 ### POST {YOUR_APP_URL}/api
 **Header**
-`Content-Type: application/json`
-```
+`Content-Type: application/json`\
+
 **Body**
+``` 
 {
     "key" : "value"
 }
