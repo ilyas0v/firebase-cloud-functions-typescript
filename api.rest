@@ -1,0 +1,11 @@
+GET https://us-central1-firecast-app-47cb0.cloudfunctions.net/api
+
+###
+
+POST https://us-central1-firecast-app-47cb0.cloudfunctions.net/api
+Content-Type: application/json
+
+{
+    "key" : "value",
+    "key2": "value2"
+}
