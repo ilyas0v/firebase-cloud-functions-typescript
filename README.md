@@ -27,3 +27,31 @@ After upgrading your plan, you can deploy your functions into cloud.
 
 ## Deploy the function
 `npm run deploy`
+
+
+
+## After deploying, test the following endpoints:
+
+### POST {YOUR_APP_URL}/api
+**Header**
+`Content-Type: application/json`
+**Body**
+```
+{
+    "key" : "value"
+}
+```
+
+
+### GET {YOUR_APP_URL}/api
+**Response**
+```
+[
+   {
+    "id": "Qtjw6SOOzaCN6pvQ0qiG",
+    "data": {
+      "key": "value"
+    }
+  }, 
+]
+```
